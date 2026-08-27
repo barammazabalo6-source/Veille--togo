@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ma veille Togo</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, Arial, sans-serif;
+    background: #f4f1ea;
+    color: #2b2620;
+  }
+  #gate {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  #gate input {
+    padding: 12px 16px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 220px;
+    margin-bottom: 10px;
+  }
+  #gate button {
+    padding: 12px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    background: #1a4d2e;
+    color: white;
+    cursor: pointer;
+  }
+  #gate p.error { color: #a32d2d; font-size: 14px; }
+  #content { display: none; max-width: 700px; margin: 0 auto; padding: 24px 16px 60px; }
+  h1 { font-size: 22px; margin-bottom: 4px; }
+  .maj { font-size: 13px; color: #777; margin-bottom: 24px; }
+  .card {
+    background: white;
+    border: 1px solid #e5e2d8;
+    border-radius: 12px;
+    padding: 16px 18px;
+    margin-bottom: 14px;
+  }
+  .card h3 { margin: 0 0 6px; font-size: 15px; }
+  .card p { margin: 0 0 8px; font-size: 14px; line-height: 1.5; color: #444; }
+  .card a { font-size: 13px; color: #1a4d2e; }
+  .cat { display: inline-block; font-size: 11px; background: #eaf3de; color: #3b6d11; padding: 2px 8px; border-radius: 6px; margin-bottom: 8px; }
+</style>
+</head>
+<body>
+
+<div id="gate">
+  <h2>Ma veille Togo</h2>
+  <input type="password" id="pwd" placeholder="Mot de passe">
+  <button onclick="checkPwd()">Entrer</button>
+  <p class="error" id="err"></p>
+</div>
+
+<div id="content">
+  <h1>Ma veille Togo</h1>
+  <div class="maj" id="maj">Chargement...</div>
+  <div id="liste"></div>
+</div>
+
+<script>
+// Change ce mot de passe avant de mettre le site en ligne
+const MOT_DE_PASSE = "togo2026";
+
+function checkPwd() {
+  const val = document.getElementById('pwd').value;
+  if (val === MOT_DE_PASSE) {
+    document.getElementById('gate').style.display = 'none';
+    document.getElementById('content').style.display = 'block';
+    sessionStorage.setItem('veille_ok', '1');
+    chargerNews();
+  } else {
+    document.getElementById('err').textContent = "Mot de passe incorrect.";
+  }
+}
+
+if (sessionStorage.getItem('veille_ok') === '1') {
+  document.getElementById('gate').style.display = 'none';
+  document.getElementById('content').style.display = 'block';
+  chargerNews();
+}
+
+function chargerNews() {
+  fetch('data.json?t=' + Date.now())
+    .then(r => r.json())
+    .then(data => {
+      document.getElementById('maj').textContent = "Dernière mise à jour : " + data.date;
+      const liste = document.getElementById('liste');
+      liste.innerHTML = '';
+      data.articles.forEach(a => {
+        const div = document.createElement('div');
+        div.className = 'card';
+        div.innerHTML = `
+          <span class="cat">${a.categorie || 'Actu'}</span>
+          <h3>${a.titre}</h3>
+          <p>${a.resume}</p>
+          <a href="${a.lien}" target="_blank">Lire la source</a>
+        `;
+        liste.appendChild(div);
+      });
+    })
+    .catch(() => {
+      document.getElementById('maj').textContent = "Pas encore de données — attends la première mise à jour automatique.";
+    });
+}
+</script>
+
+</body>
+</html>
