@@ -12,7 +12,7 @@ function formatArticles(json, categorieParDefaut) {
   if (!json.results) return [];
   return json.results.slice(0, 10).map(a => ({
     titre: a.title,
-    resume: (a.description || "").slice(0, 220),
+    resume: a.description || "(Pas de résumé disponible, clique sur \"Lire la source\")",
     lien: a.link,
     categorie: categorieParDefaut || (a.category && a.category[0]) || "Actu"
   }));
