@@ -5,7 +5,7 @@
 const fs = require('fs');
 
 const API_KEY = process.env.NEWS_API_KEY;
-const URL_GENERAL = `https://newsdata.io/api/1/latest?apikey=${API_KEY}&country=tg&language=fr`;
+const URL_GENERAL = `https://newsdata.io/api/1/latest?apikey=${API_KEY}&country=tg&language=fr&category=business,politics,world`;
 const URL_PORT = `https://newsdata.io/api/1/latest?apikey=${API_KEY}&q=%22Port%20Autonome%20de%20Lom%C3%A9%22&language=fr`;
 
 function formatArticles(json, categorieParDefaut) {
