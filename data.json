@@ -1,6 +1,12 @@
 {
-  "date": "24/10/2026 10:07:13",
+  "date": "25/10/2026 10:32:19",
   "articles": [
+    {
+      "titre": "Togo : Naka Gnassingbé prend les commandes de la SONAFIR, une première",
+      "resume": "Naka Gnassingbé prend les commandes de la SONAFIR, marquant une première étape dans le financement des infrastructures routières au Togo. L’article Togo : Naka Gnassingbé prend les commandes de la SONAFIR, une première est apparu en premier sur 24 Heure Info | Actualité au Togo et dans le monde.",
+      "lien": "https://24heureinfo.com/economie/togo-naka-gnassingbe-prend-les-commandes-de-la-sonafir-une-premiere/",
+      "categorie": "Port de Lomé"
+    },
     {
       "titre": "Burkina/Commerce : Le Port autonome de Lomé renforce ses relations avec les opérateurs économiques burkinabè",
       "resume": "Le Port autonome de Lomé et l'Alliance pour la promotion du port de Lomé (A2PL) ont organisé, ce vendredi 23 octobre 2026, à Ouagadougou, une rencontre d'échanges avec les opérateurs économiques burkinabè. Cette initiative vise à renforcer leur collaboration et à faciliter le transit des marchandises à destination du Burkina Faso. Cette rencontre s'inscrit dans le cadre d'une mission promotionnelle qui se déroule du 18 au 24 octobre 2026, sous le thème : « Le port de Lomé et son corridor (…) - Diplomatie - Coopération",
@@ -20,64 +26,58 @@
       "categorie": "Port de Lomé"
     },
     {
-      "titre": "Une loi pour dématérialiser l'état civil des personnes sous protection internationale",
-      "resume": "Le Sénat vient d’adopter une proposition de loi visant à dématérialiser les actes d’état civil des bénéficiaires de la protection internationale. Ce texte s’inspire largement de l’expérimentation menée pour les actes d’état civil des Français de l’étranger. Sophie Briante Guillemont est docteure en droit et sénatrice des Français de l’étranger.",
-      "lien": "https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20261023-une-loi-pour-d%C3%A9mat%C3%A9rialiser-l-%C3%A9tat-civil-des-personnes-sous-protection-internationale",
+      "titre": "Baptiste Heintz, le nouveau président de l'Assemblée des Français de l'étranger (AFE)",
+      "resume": "Baptiste Heintz est depuis quelques jours le nouveau président de l’Assemblée des Français de l’étranger (AFE). Élu au cours de la 45ᵉ session plénière qui vient de se tenir à Paris, le nouveau président qui réside à Abidjan est le conseiller des Français de la Côte d'Ivoire et du Libéria. Baptiste Heintz plaide pour une AFE plus ouverte aux autres associations dédiées aux expatriés français, et prône une institution davantage écoutée par le gouvernement et le parlement. Explications.",
+      "lien": "https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20261024-baptiste-heintz-le-nouveau-pr%C3%A9sident-de-l-assembl%C3%A9e-des-fran%C3%A7ais-de-l-%C3%A9tranger-afe",
       "categorie": "top"
     },
     {
-      "titre": "Renforcement du staff technique des Verts : Ce n’est pas demain la veille",
-      "resume": "Le renforcement du staff technique de l’équipe nationale prendra finalement plus de temps que prévu. De source autorisée à la FAF, nous avons appris que le dossier de l’entraîneur adjoint est remis à plus tard. Autrement dit, Brahim Hemdani abordera le stage de novembre et la double confrontation face au Togo avec le staff déjà […] L’article Renforcement du staff technique des Verts : Ce n’est pas demain la veille est apparu en premier sur La Gazette du Fennec.",
-      "lien": "https://lagazettedufennec.com/renforcement-du-staff-technique-des-verts-ce-nest-pas-demain-la-veille/",
+      "titre": "Les 100 Visages du Burkina Digital : Mariam Congo, faire dialoguer l'Afrique autour de son avenir numérique",
+      "resume": "En ce jourt où referment les portes de la phase officielle de Le Faso Digital 2026, nous poursuivons notre série consacrée aux femmes et aux hommes qui construisent le Burkina numérique. Aujourd'hui, nous mettons à l'honneur Mariam Congo, gestionnaire, actrice de la coopération numérique régionale et promotrice des données ouvertes, dont le parcours montre que la transformation digitale de l'Afrique se construit aussi par le dialogue, la coordination des acteurs et l'élaboration d'une vision (…) - Société",
+      "lien": "https://lefaso.net/spip.php?article150216=",
       "categorie": "top"
     },
     {
-      "titre": "Santé au travail : Tunis accueille les experts internationaux pour débattre de l’intelligence artificielle et du télétravail",
-      "resume": "En étroite collaboration avec l’Organisation internationale du travail, la Société tunisienne de médecine du travail, organise un événement scientifique d’envergure dédié à la santé, à la sécurité au travail et à la médecine professionnelle. Cette manifestation, qui fusionne la première Rencontre internationale sur la santé et la sécurité au travail et le douzième Congrès national […] L’article Santé au travail : Tunis accueille les experts internationaux pour débattre de l’intelligence artificielle et du télétravail est apparu en premier sur La Presse de Tunisie.",
-      "lien": "https://www.lapresse.tn/2026/10/23/sante-au-travail-tunis-accueille-les-experts-internationaux-pour-debattre-de-lintelligence-artificielle-et-du-teletravail/",
+      "titre": "Le Maroc à l’honneur à la 9e Biennale internationale des arts d’Abidjan",
+      "resume": "(Pas de résumé disponible, clique sur \"Lire la source\")",
+      "lien": "https://h24info.ma/culture/le-maroc-a-lhonneur-a-la-9e-biennale-internationale-des-arts-dabidjan/",
+      "categorie": "entertainment"
+    },
+    {
+      "titre": "Togo: On dira toujours Mercy",
+      "resume": "[Togonews] L'organisation humanitaire Mercy Ships, en partenariat avec le ministère de la Santé, organisera du 23 novembre au 11 décembre à Atakpamé, dans la région des Plateaux, une campagne de consultations médicales gratuites, suivies d'interventions chirurgicales pour les patients qui en ont besoin.",
+      "lien": "https://fr.allafrica.com/stories/202610240170.html",
       "categorie": "top"
     },
     {
-      "titre": "Togo : agriculture, nucléaire… les députés adoptent quatre textes stratégiques",
-      "resume": "L'Assemblée nationale du Togo adopte quatre textes stratégiques sur l'agriculture et la sécurité nucléaire pour le développement. L’article Togo : agriculture, nucléaire… les députés adoptent quatre textes stratégiques est apparu en premier sur 24 Heure Info | Actualité au Togo et dans le monde.",
-      "lien": "https://24heureinfo.com/politique/togo-agriculture-nucleaire-les-deputes-adoptent-quatre-textes-strategiques/",
-      "categorie": "politics"
+      "titre": "Togo: L'accès à l'eau, un levier de paix selon le PNUD",
+      "resume": "[Togonews] Deux nouveaux postes d'eau autonomes fonctionnant à l'énergie solaire, financés par le Programme des Nations unies pour le développement (PNUD), ont été mis en service dans la région des Savanes.",
+      "lien": "https://fr.allafrica.com/stories/202610240168.html",
+      "categorie": "environment"
     },
     {
-      "titre": "Espace UEMOA : Le roaming bientôt effectif entre le Burkina, le Bénin, la Côte d'Ivoire et le Sénégal",
-      "resume": "Pouvoir voyager du Burkina Faso vers le Bénin, la Côte d'Ivoire ou le Sénégal sans être contraint d'acheter systématiquement une nouvelle carte SIM pour communiquer avec ses proches, tout en bénéficiant de conditions tarifaires plus accessibles. C'est l'un des changements attendus des accords bilatéraux de roaming signés ce vendredi 23 octobre 2026, à Ouagadougou. Au-delà de leur portée institutionnelle, ces engagements visent à lever progressivement les obstacles liés aux communications (…) - Diplomatie - Coopération",
-      "lien": "https://lefaso.net/spip.php?article150173=",
+      "titre": "Togo: Petit émetteur, grandes ambitions",
+      "resume": "[Togonews] Le Togo ambitionne de réduire de 52,10 % ses émissions de gaz à effet de serre d'ici 2035, selon le ministère chargé du Changement climatique. Un objectif qui s'appuie sur plusieurs politiques en cours.",
+      "lien": "https://fr.allafrica.com/stories/202610240167.html",
+      "categorie": "top"
+    },
+    {
+      "titre": "Coris Bank International : Idrissa Nassa annonce la promotion de 11 cadres du groupe",
+      "resume": "Le PDG du groupe Coris Bank International, Idrissa Nassa, a annoncé une série de promotions internes concernant 11 cadres du groupe. Dans une publication sur son compte LinkedIn, il a félicité les responsables promus à de nouvelles fonctions de direction dans plusieurs filiales en Afrique. Le groupe Coris Bank International procède à une réorganisation interne … The post Coris Bank International : Idrissa Nassa annonce la promotion de 11 cadres du groupe appeared first on Burkina24.com - Actualité du Burkina Faso 24h/24.",
+      "lien": "https://burkina24.com/2026/10/24/coris-bank-international-idrissa-nassa-annonce-la-promotion-de-11-cadres-du-groupe/",
       "categorie": "business"
     },
     {
-      "titre": "Togo: API-ZF - 37 projets d'investissement accompagnés",
-      "resume": "[Togonews] L'Agence de promotion des investissements et de la zone franche (API-ZF) a accompagné 37 projets d'investissement en 2024, selon des données publiées par le ministère chargé de la Promotion de l'investissement. Aucun chiffre n'a en revanche été communiqué pour 2025.",
-      "lien": "https://fr.allafrica.com/stories/202610230500.html",
-      "categorie": "top"
+      "titre": "Sénégal : le ministère de l’Énergie annonce un retour à la normale de l’approvisionnement en carburant",
+      "resume": "Le ministère de l’Énergie confirme un retour à la normale de l’approvisionnement en carburant au Sénégal après des perturbations. L’article Sénégal : le ministère de l’Énergie annonce un retour à la normale de l’approvisionnement en carburant est apparu en premier sur 24 Heure Info | Actualité au Togo et dans le monde.",
+      "lien": "https://24heureinfo.com/afrique/senegal-le-ministere-de-lenergie-annonce-un-retour-a-la-normale-de-lapprovisionnement-en-carburant/",
+      "categorie": "world"
     },
     {
-      "titre": "\"On n’attendait pas La Calamine à ce niveau-là\", selon le joueur de Richelle Adji-Martin Aharrh",
-      "resume": "À l’occasion du match de football samedi 24 octobre entre Richelle et La Calamine en D2 FFA, nous donnons la parole à Adji-Martin Aharrh-Gnama. ...",
-      "lien": "https://www.lavenir.net/regions/verviers/sports/2026/10/23/on-nattendait-pas-la-calamine-a-ce-niveau-la-selon-le-joueur-de-richelle-adji-martin-aharrh-KTWEK4VBPBHJDJPX3MSKK3A4NM/",
-      "categorie": "sports"
-    },
-    {
-      "titre": "Togo : 6 nouveaux préfets nommés dans l’Avé, le Bas-Mono, l’Est-Mono, Kloto, Wawa et Yoto",
-      "resume": "Le Conseil des ministres de Togo a nommé 6 nouveaux préfets. Apprenez-en plus sur ces nominations importantes. L’article Togo : 6 nouveaux préfets nommés dans l’Avé, le Bas-Mono, l’Est-Mono, Kloto, Wawa et Yoto est apparu en premier sur 24 Heure Info | Actualité au Togo et dans le monde.",
-      "lien": "https://24heureinfo.com/politique/togo-6-nouveaux-prefets-nommes-dans-lave-le-bas-mono-lest-mono-kloto-wawa-et-yoto/",
-      "categorie": "politics"
-    },
-    {
-      "titre": "Vo/Santé : Une rencontre préparatoire sur la santé maternelle et infantile à Vogan",
-      "resume": "Vogan, 22 oct. (ATOP) – L’Association togolaise pour le bien-être familial (ATBEF) a organisé une rencontre préfectorale de présentation et de plaidoyer sur l’état des lieux des comités villageois de santé maternelle et infantile, le jeudi 22 octobre, à Vogan, dans la commune Vo 1.",
-      "lien": "https://atop.tg/vo-sante-une-rencontre-preparatoire-sur-la-sante-maternelle-et-infantile-a-vogan/",
-      "categorie": "domestic"
-    },
-    {
-      "titre": "Kloto : Une délégation de la coopération allemande visite des initiatives de développement",
-      "resume": "Kpalimé, 22 oct. (ATOP) – Une délégation de la coopération allemande au Togo a effectué, le jeudi 22 octobre dans la préfecture de Kloto, une visite au centre de formation de l’ONG Aklala Batik à Nyivémé, procédé à l’inauguration de la Vitrine artisanale de Kloto à Kpalimé et réceptioné des gros œuvres des locaux du nouveau siège de la mairie de Kloto 3 à Kuma-Tokpli.",
-      "lien": "https://atop.tg/kloto-une-delegation-de-la-cooperation-allemande-visite-des-initiatives-de-developpement/",
-      "categorie": "entertainment"
+      "titre": "Sénégal : voici les conditions de PASTEF pour adopter la loi de finances rectificative 2026",
+      "resume": "Le groupe PASTEF refuse le PLFR 2026 sans garanties sur les investissements publics et la gestion de la dette. L’article Sénégal : voici les conditions de PASTEF pour adopter la loi de finances rectificative 2026 est apparu en premier sur 24 Heure Info | Actualité au Togo et dans le monde.",
+      "lien": "https://24heureinfo.com/afrique/senegal-voici-les-conditions-de-pastef-pour-adopter-la-loi-de-finances-rectificative-2026/",
+      "categorie": "world"
     }
   ]
 }
