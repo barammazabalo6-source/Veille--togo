@@ -1,65 +1,89 @@
 {
-  "date": "07/11/2026 12:16:37",
+  "date": "08/11/2026 12:37:31",
   "articles": [
     {
-      "titre": "Faut-il parfois s'expatrier pour être soi-même?",
-      "resume": "Et si la personne que vous étiez censé devenir n'avait pas pu s'épanouir là où vous êtes né et où vous avez grandi ? Pour certains, il faut partir pour être authentique. Grâce notamment à la liberté que confère le fait d'être étranger et la distance qui donne du recul, parfois, s'expatrier est la seule façon d'être véritablement soi-même. Julien Faliu est le responsable du site Expat.com à l'île Maurice.",
-      "lien": "https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20261106-faut-il-parfois-s-expatrier-pour-%C3%AAtre-soi-m%C3%AAme",
-      "categorie": "world"
+      "titre": "Mali : la CMDT et le Port de Lomé examinent les coûts d’exportation du coton",
+      "resume": "La Compagnie malienne pour le développement des textiles et le Port autonome de Lomé ont discuté des coûts et conditions d’exportation du coton sur le corridor Bamako–Lomé.",
+      "lien": "https://maliactu.net/stories/story-coton-malien-la-cmdt-et-le-port-de-lome-examinent-les-couts-et-delais-dexportation/",
+      "categorie": "Port de Lomé"
     },
     {
-      "titre": "SIAO 2026 : 42 prix décernés aux lauréats des différents concours",
-      "resume": "Les résultats des différents concours organisés dans le cadre de la 18ᵉ édition du Salon international de l'artisanat de Ouagadougou (SIAO) ont été proclamés ce 6 novembre 2026. Au total, 42 prix ont été décernés aux artisans dont les œuvres ont été soumises à l'appréciation du jury. Au pavillon de la créativité Thomas-Sankara, 58 œuvres provenant de six pays, à savoir le Burkina Faso, le Mali, le Niger, le Togo, le Bénin et le Congo-Brazzaville, ont été présentées. Selon Agarba Patricia (…) - Culture",
-      "lien": "https://lefaso.net/spip.php?article150600=",
+      "titre": "Coton malien : la CMDT et le Port de Lomé examinent les coûts et délais d’exportation",
+      "resume": "La CMDT et le Port de Lomé ont examiné les coûts et délais du transit, avec l’objectif de faciliter l’exportation du coton malien.",
+      "lien": "https://maliactu.net/coton-malien-cmdt-port-lome-couts-delais-exportation/",
+      "categorie": "Port de Lomé"
+    },
+    {
+      "titre": "Togo: Plus de puissance pour guider les géants des mers",
+      "resume": "[Togonews] Le Port autonome de Lomé (PAL) a reçu vendredi un remorqueur de dernière génération, construit en Turquie par le chantier naval Sanmar. Il sera exploité par l'opérateur espagnol Boluda.",
+      "lien": "https://fr.allafrica.com/stories/202611070203.html",
+      "categorie": "Port de Lomé"
+    },
+    {
+      "titre": "Lomé a lancé une offensive de charme à Bamako pour alléger les contraintes logistiques",
+      "resume": "Le Port autonome de Lomé (PAL) entend renforcer les conditions de transit des marchandises destinées au Mali, à travers une réduction des contraintes logistiques, une amélioration des procédures et un dialogue accru avec les opérateurs économiques. Ces orientations ont été présentées jeudi 5 novembre 2026 à Bamako, lors d’une journée portes ouvertes réunissant des responsables […] The post Lomé a lancé une offensive de charme à Bamako pour alléger les contraintes logistiques first appeared on AbidjanTV.net.",
+      "lien": "https://abidjantv.net/afrique-3/lome-a-lance-une-offensive-de-charme-a-bamako-pour-alleger-les-contraintes-logistiques/",
+      "categorie": "Port de Lomé"
+    },
+    {
+      "titre": "Togo: Togoville - Joies, blessures et espérances confiées à Marie",
+      "resume": "[Togonews] L'archevêque de Lomé, Mgr Isaac Gaglo, également administrateur apostolique du diocèse d'Aného, s'est adressé samedi aux fidèles du pèlerinage marial de Togoville. Il les a invités à raviver leur foi face aux épreuves de la vie.",
+      "lien": "https://fr.allafrica.com/stories/202611070273.html",
       "categorie": "top"
     },
     {
-      "titre": "Conférence de presse du sélectionneur Brahim Hemdani : «Il nous faut une bonne assise défensive»",
-      "resume": "Le sélectionneur national, Brahim Hemdani, a affiché clairement ses ambitions à l’approche de la double confrontation face au Togo, prévue les 14 et 17 novembre, dans le cadre des 3e et 4e journées des qualifications de la CAN-2027. Par Mahfoud M. En conférence de presse tenue jeudi au stade Nelson-Mandela de Baraki, le technicien a […]",
-      "lien": "https://www.lejourdalgerie.com/conference-de-presse-du-selectionneur-brahim-hemdani-il-nous-faut-une-bonne-assise-defensive/",
+      "titre": "Togo: L'Accord expliqué sous la plume du Chef de la diplomatie togolaise, Prof Robert Dussey",
+      "resume": "[Télégramme228] Qui mieux qu'un Chef de diplomatie pour expliquer avec les mots justes un tel acte diplomatique ?",
+      "lien": "https://fr.allafrica.com/stories/202611070270.html",
       "categorie": "top"
     },
     {
-      "titre": "Togo : la DMK, la DMP et leurs alliés appellent à une journée de cessation d’activités",
-      "resume": "La DMK, la DMP et leurs alliés appellent à une journée de cessation d'activités pour alerter sur la situation à Togo. L’article Togo : la DMK, la DMP et leurs alliés appellent à une journée de cessation d’activités est apparu en premier sur 24 Heure Info | Actualité au Togo et dans le monde.",
-      "lien": "https://24heureinfo.com/politique/togo-la-dmk-la-dmp-et-leurs-allies-appellent-a-une-journee-de-cessation-dactivites/",
-      "categorie": "politics"
-    },
-    {
-      "titre": "Algérie – Togo : Des invités de marque dans les tribunes du stade Hocine-Aït-Ahmed",
-      "resume": "Six mois après les belles images de fraternité offertes à Lawrence, aux États-Unis, lors du Mondial 2026, les supporters algériens pourraient retrouver une partie de ceux qui les avaient chaleureusement accueillis. Une délégation américaine, conduite par le maire de Lawrence, est attendue en Algérie du 9 au 14 novembre et devrait notamment assister à la […] L’article Algérie – Togo : Des invités de marque dans les tribunes du stade Hocine-Aït-Ahmed est apparu en premier sur La Gazette du Fennec.",
-      "lien": "https://lagazettedufennec.com/algerie-togo-des-invites-de-marque-dans-les-tribunes-du-stade-hocine-ait-ahmed/",
+      "titre": "Algérie/Absence de Luca Zidane : Hemdani, la contradiction dans la justification",
+      "resume": "C’était une petite surprise tout de même. Brahim Hemdani a fait le choix fort de ne pas retenir Luca Zidane (28 ans/10 capes) dans la liste finale pour la date FIFA de novembre et la double-confrontation contre le Togo. La décision reste forte sachant qu’il s’agit du portier titulaire des Verts lors de la Coupe […] L’article Algérie/Absence de Luca Zidane : Hemdani, la contradiction dans la justification est apparu en premier sur La Gazette du Fennec.",
+      "lien": "https://lagazettedufennec.com/algerie-absence-de-luca-zidane-hemdani-la-contradiction-dans-la-justification/",
       "categorie": "top"
     },
     {
-      "titre": "Orpailleurs refoulés de Guinée : une naissance redonne espoir au cœur de l'urgence sanitaire à Bamako",
-      "resume": "Orpailleurs refoulés de Guinée : une naissance redonne espoir au cœur de l'urgence sanitaire à Bamako Au milieu de la détresse des milliers de jeunes migrants",
-      "lien": "https://maliactu.net/orpailleurs-refoules-de-guinee-une-naissance-redonne-espoir-au-coeur-de-lurgence-sanitaire-a-bamako/",
+      "titre": "Togo : Une filiale d’Afriland obtient son agrément de société de bourse",
+      "resume": "Le groupe bâti par le Camerounais Paul Fokam ne se contente plus de la banque. Depuis Lomé, Africa Diamond Invest obtient l’accès réglementaire au marché commun de la BRVM.",
+      "lien": "https://www.camerounweb.com/CameroonHomePage/business/Togo-Une-filiale-d-Afriland-obtient-son-agr-ment-de-soci-t-de-bourse-800177",
+      "categorie": "top"
+    },
+    {
+      "titre": "Hull City : Les nouvelles peu rassurantes de Sergej Jakirovic sur Mohamed Belloumi",
+      "resume": "Absent lors de la défaite de Hull City face à Arsenal (0-1) ce samedi, Mohamed Bachir Belloumi a suscité de vives inquiétudes. Interrogé à l’issue de la rencontre, l’entraîneur des Tigers, Sergej Jakirovic, a levé le voile sur la situation de l’international algérien, livrant un diagnostic qui douche les espoirs du staff technique national. Au […] L’article Hull City : Les nouvelles peu rassurantes de Sergej Jakirovic sur Mohamed Belloumi est apparu en premier sur La Gazette du Fennec.",
+      "lien": "https://lagazettedufennec.com/hull-city-les-nouvelles-peu-rassurantes-de-sergej-jakirovic-sur-mohamed-belloumi/",
+      "categorie": "top"
+    },
+    {
+      "titre": "Mali : 15 000 orpailleurs expulsés de Guinée concernés par un rapatriement",
+      "resume": "Plus de 100 000 orpailleurs refoulés de Guinée sont arrivés dans le district de Bamako. Le Mali organise leur accueil, des soins et des rapatriements, notamment vers le Burkina Faso.",
+      "lien": "https://senego.com/mali-15-000-orpailleurs-expulses-de-guinee-concernes-par-un-rapatriement_2021524.html",
+      "categorie": "top"
+    },
+    {
+      "titre": "Norvège : Amin Chiakha ne s’arrête plus ! (Vidéo)",
+      "resume": "En pleine réussite sous les couleurs de Rosenborg, Amin Chiakha continue d'affoler les compteurs en Norvège. L'attaquant algérien confirme son excellente dynamique à quelques jours de retrouver les Fennecs pour le rassemblement de novembre. The post Norvège : Amin Chiakha ne s’arrête plus ! (Vidéo) appeared first on Football Algérien - DZFOOT.COM.",
+      "lien": "https://www.dzfoot.com/verts-deurope/norvege-amin-chiakha-ne-sarrete-plus-video-302019.html",
       "categorie": "sports"
     },
     {
-      "titre": "Pôle pénal économique et financier: Un présumé diplomatique et des petites mains de l’or interdits à la barre",
-      "resume": "Le lundi 2 novembre 2026, au Pôle pénal économique et financier (PPEF) d’Abidjan, 25 mineurs orpailleurs ont comparu devant le tribunal pour enfants. Le lendemain, un consultant nigérien se disant diplomate a comparu dans une affaire d’escroquerie portant sur 198 000 euros. Le passeport diplomatique Le mardi 3 novembre 2026, la 4e chambre correctionnelle du […]",
-      "lien": "https://ivorian.net/pole-penal-economique-et-financier-un-presume-diplomatique-et-des-petites-mains-de-lor-interdits-a-la-barre/",
+      "titre": "Mali: plusieurs dizaines de milliers d'orpailleurs expulsés de Guinée pris en charge au Mali",
+      "resume": "Plusieurs dizaines de milliers d'orpailleurs expulsés de Guinée sont arrivés au Mali ces derniers jours. Cet afflux massif fait suite aux mesures prises le 2 novembre par Conakry pour mettre fin à l'orpaillage illégal. Les autorités maliennes de transition, avec le soutien de partenaires internationaux, ont mis en place des dispositifs d'urgence pour accueillir ces orpailleurs refoulés de Guinée et les rapatrier chez eux, principalement au Burkina Faso.",
+      "lien": "https://www.rfi.fr/fr/afrique/20261107-mali-plusieurs-dizaines-de-milliers-d-orpailleurs-expuls%C3%A9s-de-guin%C3%A9e-pris-en-charge-au-mali",
       "categorie": "crime"
     },
     {
-      "titre": "Qualifications CAN-2027 / Hemdani : « Engranger le maximum de points face au Togo »",
-      "resume": "Le sélectionneur de l’équipe nationale de football, Brahim Hemdani, a affiché jeudi ses ambitions en prévision de la double confrontation face au Togo, prévue les 14 et 17 novembre, dans le cadre des 3e et 4e journées (groupe I), des qualifications de la Coupe d’Afrique des nations CAN-2027. « Nous avons constaté lors du premier rassemblement […] The post Qualifications CAN-2027 / Hemdani : « Engranger le maximum de points face au Togo » appeared first on Le Jeune Indépendant.",
-      "lien": "https://www.jeune-independant.net/qualifications-can-2027-hemdani-engranger-le-maximum-de-points-face-au-togo/",
-      "categorie": "top"
+      "titre": "Togo : la CRT et l’INAM fusionnent pour donner naissance à l’Institut national de sécurité sociale",
+      "resume": "L’Institut national de sécurité sociale est né de la fusion de la CRT et de l’INAM pour simplifier la protection sociale au Togo. L’article Togo : la CRT et l’INAM fusionnent pour donner naissance à l’Institut national de sécurité sociale est apparu en premier sur 24 Heure Info | Actualité au Togo et dans le monde.",
+      "lien": "https://24heureinfo.com/social/togo-la-crt-et-linam-fusionnent-pour-donner-naissance-a-linstitut-national-de-securite-sociale/",
+      "categorie": "lifestyle"
     },
     {
-      "titre": "Zio / Changement climatique : Les membres des comités régional et de coordination du plan d’adaptation installés",
-      "resume": "Tsévié, 6 nov. (ATOP) - Les membres des comités régional et de coordination du Plan régional d’adaptation (PRA) au changement climatique de la région Maritime ont été installés, le jeudi 5 novembre à Tsévié. La cérémonie a été présidée par le gouverneur Taïrou Bagbiègue.",
-      "lien": "https://atop.tg/zio-changement-climatique-les-membres-des-comites-regional-et-de-coordination-du-plan-dadaptation-installes/",
+      "titre": "Algérie : Le message de Riyad Mahrez à ceux qui encadrent les Verts",
+      "resume": "Auteur de trois passes décisives et d’un nouveau but lors d’un match plein face à Al Sailiya, Riyad Mahrez s’est arrêté en zone mixte pour évoquer l’équipe d’Algérie. Retraité international depuis la fin du parcours des Fennecs au Mondial 2026, l’ex-capitaine a livré son sentiment sur la sélection, qui joue la semaine prochaine avec une […] L’article Algérie : Le message de Riyad Mahrez à ceux qui encadrent les Verts est apparu en premier sur La Gazette du Fennec.",
+      "lien": "https://lagazettedufennec.com/algerie-le-message-de-riyad-mahrez-a-ceux-qui-encadrent-les-verts/",
       "categorie": "top"
-    },
-    {
-      "titre": "Togo: La sécurité en mer est l'affaire de tous",
-      "resume": "[Togonews] L'exercice de sécurité maritime Grand African NEMO 2026 (GANO 26) s'est achevé le 4 novembre. Le Togo y a participé aux côtés de 18 autres pays côtiers, du Sénégal à l'Angola.",
-      "lien": "https://fr.allafrica.com/stories/202611060590.html",
-      "categorie": "crime"
     }
   ]
 }
